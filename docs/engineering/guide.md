@@ -9,9 +9,9 @@
 ## 规约文档
 
 - 工程规约
-  - [Git 规约](docs/engineering/git.md)
-  - [文档通用规约](docs/engineering/writing.md)
-  - [更新日志规约](docs/engineering/changelog.md)
+  - [Git 规约](git.zh)
+  - [文档通用规约](writing.zh)
+  - [更新日志规约](changelog.zh)
 
 ## 规约工具
 
@@ -35,7 +35,7 @@
 
 ## 如何参与
 
-非常欢迎大家通过 [Issues](https://github.com/alibaba/f2e-spec/issues) 反馈问题和需求，或者通过 [PRs](https://github.com/alibaba/f2e-spec/pulls) 参与贡献，请参考 [CONTRIBUTING.md](/CONTRIBUTING.md)。
+非常欢迎大家通过 [Issues](https://github.com/alibaba/f2e-spec/issues) 反馈问题和需求，或者通过 [PRs](https://github.com/alibaba/f2e-spec/pulls) 参与贡献。
 
 ## 贡献署名
 

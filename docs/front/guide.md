@@ -9,12 +9,12 @@
 ## 规约文档
 
 - 编码规约
-  - [JavaScript 编码规约](coding/javascript.md)
-  - [TypeScript 编码规约](coding/typescript.md)
-  - [React 编码规约](docs/coding/react.md)
-  - [Node.js 开发规约](docs/coding/node.md)
-  - [CSS 编码规约](docs/coding/css.md)
-  - [HTML 编码规约](docs/coding/html.md)
+  - [JavaScript 编码规约](javascript.md)
+  - [TypeScript 编码规约](typescript.md)
+  - [React 编码规约](react.md)
+  - [Node.js 开发规约](node.md)
+  - [CSS 编码规约](css.md)
+  - [HTML 编码规约](html.md)
 
 ## 规约工具
 
@@ -38,7 +38,7 @@
 
 ## 如何参与
 
-非常欢迎大家通过 [Issues](https://github.com/alibaba/f2e-spec/issues) 反馈问题和需求，或者通过 [PRs](https://github.com/alibaba/f2e-spec/pulls) 参与贡献，请参考 [CONTRIBUTING.md](/CONTRIBUTING.md)。
+非常欢迎大家通过 [Issues](https://github.com/alibaba/f2e-spec/issues) 反馈问题和需求，或者通过 [PRs](https://github.com/alibaba/f2e-spec/pulls) 参与贡献。
 
 ## 贡献署名
 
