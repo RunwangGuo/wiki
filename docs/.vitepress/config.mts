@@ -39,8 +39,15 @@ export default defineConfig({
           { text: 'Git 规约', link: '/engineering/git.zh' },
         ]
       }
-    ], 
-    '/backend/': [
+    ],
+      '/log/': [
+        {
+          items: [
+            { text: '日志', link: '/log/日志' },
+          ]
+        }
+      ],
+      '/backend/': [
       {
         items: [
           { text: '导航', link: '/backend/SUMMARY' },
