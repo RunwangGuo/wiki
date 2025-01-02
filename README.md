@@ -2,7 +2,7 @@
 
 用「vitepress」, 将「f2e-spec + p3c」整合起来，已部署在GitHub pages。
 
-demo：https://regulation.198912.xyz/
+demo：https://wiki.198912.xyz/
 
 # 项目初始化
 
