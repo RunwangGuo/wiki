@@ -40,6 +40,13 @@ export default defineConfig({
         ]
       }
     ],
+      '/Packages/': [
+        {
+          items: [
+            { text: 'npm', link: '/Packages/npm' },
+          ]
+        }
+      ],
       '/log/': [
         {
           items: [
